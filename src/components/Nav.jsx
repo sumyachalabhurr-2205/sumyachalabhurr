@@ -14,7 +14,7 @@ export default function Nav() {
         <nav className="nav">
           <a className="wordmark" href="#top">
             <img src={logo} alt= "logo" className="logo-img" />
-            <span style={{ fontFamily: "var(--serif)", fontSize: "2rem", fontWeight: 700, letterSpacing: "-0.02em", lineHeight: 1 }}>sumayachalbhurr</span></a>
+            <span style={{ fontFamily: "var(--serif)", fontSize: "1.2rem", fontWeight: 700, letterSpacing: "-0.02em", lineHeight: 1 }}>sumayachalbhurr</span></a>
           <div className="nav-links">
             <a href="#how">How it works</a>
             <a href="#destinations">Destinations</a>
