@@ -7,7 +7,7 @@ export const SUMAYA_DATA = {
       country: "Western Ghats · Pune",
       tag: "Rilaxation and enjoyment",
       size: "tall",
-      img: "/public/IMG_0661.JPG.jpeg",
+      img: "/IMG_0661.JPG.jpeg",
       from: "5,999",
       duration: "2Days,1Night To 3Days,2Nights"
     },
@@ -16,7 +16,7 @@ export const SUMAYA_DATA = {
       country: "Satara · Sahyadris",
       tag: "Explore Hills,Temples & Hidden Views",
       size: "wide",
-      img: "/public/IMG_0649.JPG.jpeg",
+      img: "/IMG_0649.JPG.jpeg",
       from: "₹9,999",
       duration: "2Days,1Night To 4Days,3Nights"
     },
@@ -25,7 +25,7 @@ export const SUMAYA_DATA = {
       country: "Sindhudurg · Konkan",
       tag: " Heaven by the Coast",
       size: "wide",
-      img: "/public/IMG_0663.PNG",
+      img: "/IMG_0663.PNG",
       from: "₹7,999",
       duration: "2Days,1Night To 4Days,3Nights"
     },
@@ -35,7 +35,7 @@ export const SUMAYA_DATA = {
       country: "kolhapur,Maharashtra",
       tag: "Temples,Forts & Kolhapuri Flavors",
       size: "tall",
-      img: "/public/IMG_0651.JPG.jpeg",
+      img: "/IMG_0651.JPG.jpeg",
       from: "₹6,999",
       duration: "2Days,1Night To 3Days,2Nights"
     },
@@ -44,7 +44,7 @@ export const SUMAYA_DATA = {
       country: "Sahyadri · Marathwada",
       tag: "Where History, Adventure & Maratha Glory Come Alive",
       size: "tall",
-      img: "/public/IMG_0666.PNG",
+      img: "/IMG_0666.PNG",
       from: "₹8,600",
       duration: "1Day, To 2Day,1Night"
     },
@@ -53,7 +53,7 @@ export const SUMAYA_DATA = {
       country: "ch.Sambhaji Nagar · Maharashtra",
       tag: "Where History Lives In Stone",
       size: "wide",
-      img: "/public/IMG_0650.JPG.jpeg",
+      img: "/IMG_0650.JPG.jpeg",
       from: "₹8,900",
       duration: "2Days,1Night To 4Days,3Nights"
     },
@@ -62,7 +62,7 @@ export const SUMAYA_DATA = {
       country: "Nashik,Maharashtra",
       tag: "Where Spirituality Meets Luxury",
       size: "wide",
-      img: "/public/IMG_0665.PNG",
+      img: "/IMG_0665.PNG",
       from: "₹6,999",
       duration: "2Days,1Night To 4Days,3Nights"
     },
@@ -72,7 +72,7 @@ export const SUMAYA_DATA = {
       country: "Raigad, Maharashtra",
       tag: "Misty Hills & Toy Train Paradise",
       size: "tall",
-      img: "/public/IMG_0660.JPG.jpeg",
+      img: "/IMG_0660.JPG.jpeg",
       from: "₹5,900",
       duration: "2Days,1Night To 3Days,2Nights"
     }
