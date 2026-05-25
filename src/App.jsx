@@ -2,6 +2,7 @@ import About from './pages/About'
 import { Routes, Route } from 'react-router-dom'
 
 import Nav from './components/Nav.jsx'
+import ScrollToTop from './components/ScrollToTop.jsx'
 import Hero from './components/Hero.jsx'
 import HowItWorks from './components/HowItWorks.jsx'
 import Destinations from './components/Destinations.jsx'
@@ -35,6 +36,7 @@ function HomePage() {
 export default function App() {
   return (
     <>
+      <ScrollToTop />
       <Nav />
 
       <Routes>

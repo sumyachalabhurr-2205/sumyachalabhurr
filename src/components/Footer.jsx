@@ -26,7 +26,7 @@ export default function Footer() {
           <div className="foot-col">
             <h5>Contact</h5>
             <ul>
-              <li><a href="mailto:hello@sumayachalbhurr.in">sumyachalabhurr@gmail.com</a></li>
+              <li><a href="mailto:sumyachalabhurr@gmail.com">sumyachalabhurr@gmail.com</a></li>
               <li><a href="#plan">Send a plan request</a></li>
             </ul>
           </div>
