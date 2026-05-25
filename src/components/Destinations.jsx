@@ -29,9 +29,7 @@ export default function Destinations() {
             </Reveal>
           ))}
         </div>
-        <div style={{ marginTop: 56, textAlign: "center" }}>
-          <a href="#all" className="btn btn-outline btn-arrow">See every place we plan</a>
-        </div>
+        
       </div>
     </section>
   );
